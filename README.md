@@ -1,7 +1,7 @@
-📚 Estudos de Python Básico
+**📚 Estudos de Python Básico**
 Repositório dedicado ao armazenamento e organização dos meus estudos em Python básico.
 
-📂 Estrutura do Repositório
+**📂 Estrutura do Repositório**
 text
 estudos-python/
 ├── fundamentos/           # Conceitos fundamentais
@@ -10,7 +10,8 @@ estudos-python/
 ├── poo/                  # Programação Orientada a Objetos
 ├── projetos/             # Pequenos projetos práticos
 └── exercicios/           # Exercícios resolvidos
-🎯 Objetivo
+
+**🎯 Objetivo**
 Consolidar conhecimentos em Python
 
 Praticar através de exemplos e exercícios
@@ -19,7 +20,7 @@ Manter um histórico do meu progresso
 
 Criar uma base de consulta para revisões
 
-📝 Conteúdo Abordado
+**📝 Conteúdo Abordado**
 Fundamentos
 Variáveis e tipos de dados
 
@@ -62,7 +63,7 @@ Polimorfismo
 
 Encapsulamento
 
-🚀 Como Usar
+**🚀 Como Usar**
 Clone o repositório:
 
 bash
@@ -75,7 +76,7 @@ Execute os arquivos Python:
 
 bash
 python arquivo.py
-📅 Progresso
+**📅 Progresso**
 Data	Tópico Estudado	Status
 DD/MM/YYYY	Variáveis	✅ Concluído
 DD/MM/YYYY	Condicionais	⏳ Em andamento
@@ -95,7 +96,7 @@ Python Brasil
 
 Real Python
 
-📊 Metas
+**📊 Metas**
 Completar todos os fundamentos
 
 Criar 10 mini-projetos
